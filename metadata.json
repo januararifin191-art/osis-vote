@@ -1,0 +1,6 @@
+{
+  "name": "OSIS VOTE",
+  "description": "Sistem E-Voting Modern, Transparan, dan Aman untuk Pemilihan Ketua dan Wakil Ketua OSIS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
